@@ -1,0 +1,41 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <recentFileMasks>
+      <mask>!(b*.py</mask>
+      <mask>!(bo*.py</mask>
+      <mask>!(boap*.py</mask>
+      <mask>!(boapp*.py</mask>
+      <mask>!(boapp)*.py</mask>
+      <mask>!(boapp)+*.py</mask>
+      <mask>!(boapp)+*.jy</mask>
+      <mask>!(boapp)+*.jsy</mask>
+      <mask>!(boapp.)+*.jsy</mask>
+      <mask>!(boApp.)+*.jsy</mask>
+      <mask>!(boApp)+*.jsy</mask>
+      <mask>!(boApp).+*.jsy</mask>
+      <mask>.less</mask>
+      <mask>pless</mask>
+      <mask>pyless</mask>
+      <mask>py</mask>
+      <mask>*py</mask>
+      <mask>*.py</mask>
+      <mask>*.p</mask>
+      <mask>*.le</mask>
+      <mask>*.les</mask>
+      <mask>*.less</mask>
+      <mask>TeacherGradeLevels/</mask>
+      <mask>TeacherGradeLevels</mask>
+      <mask>TeacherGradeLevels.</mask>
+      <mask>TeacherGradeLevels.js</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.js</mask>
+    </recentFileMasks>
+  </component>
+</application>
