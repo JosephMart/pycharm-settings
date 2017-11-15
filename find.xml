@@ -7,7 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.py" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>!(b*.py</mask>
       <mask>!(bo*.py</mask>
@@ -35,10 +35,10 @@
       <mask>TeacherGradeLevels.js</mask>
       <mask>*</mask>
       <mask>*.</mask>
-      <mask>*.j</mask>
-      <mask>*.js</mask>
       <mask>*.p</mask>
       <mask>*.py</mask>
+      <mask>*.j</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
