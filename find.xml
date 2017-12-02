@@ -5,11 +5,8 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.txt" />
     <recentFileMasks>
-      <mask>!(boapp)+*.jy</mask>
-      <mask>!(boapp)+*.jsy</mask>
-      <mask>!(boapp.)+*.jsy</mask>
       <mask>!(boApp.)+*.jsy</mask>
       <mask>!(boApp)+*.jsy</mask>
       <mask>!(boApp).+*.jsy</mask>
@@ -35,8 +32,11 @@
       <mask>*.le</mask>
       <mask>*.les</mask>
       <mask>*.less</mask>
-      <mask>*.j</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.t</mask>
+      <mask>*.tx</mask>
+      <mask>*.txt</mask>
     </recentFileMasks>
   </component>
 </application>
