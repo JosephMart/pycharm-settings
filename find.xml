@@ -5,38 +5,38 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.py" />
     <recentFileMasks>
-      <mask>!(boApp.)+*.jsy</mask>
-      <mask>!(boApp)+*.jsy</mask>
-      <mask>!(boApp).+*.jsy</mask>
-      <mask>.less</mask>
-      <mask>pless</mask>
-      <mask>pyless</mask>
       <mask>py</mask>
       <mask>*py</mask>
       <mask>TeacherGradeLevels/</mask>
       <mask>TeacherGradeLevels</mask>
       <mask>TeacherGradeLevels.</mask>
       <mask>TeacherGradeLevels.js</mask>
-      <mask>*</mask>
-      <mask>*.p</mask>
       <mask>*.s</mask>
       <mask>*.sas</mask>
       <mask>*.sass</mask>
-      <mask>*.</mask>
       <mask>*.cs</mask>
       <mask>*.css</mask>
       <mask>*.l</mask>
       <mask>*.le</mask>
       <mask>*.les</mask>
       <mask>*.less</mask>
-      <mask>*.j</mask>
       <mask>*.t</mask>
       <mask>*.tx</mask>
       <mask>*.txt</mask>
-      <mask>*.py</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>log</mask>
+      <mask>lo</mask>
+      <mask>l_</mask>
+      <mask>l</mask>
+      <mask>__</mask>
+      <mask>_</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.py</mask>
     </recentFileMasks>
   </component>
 </application>
