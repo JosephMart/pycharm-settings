@@ -7,17 +7,13 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.py" />
+    <option name="FILE_MASK" value="*.sass" />
     <recentFileMasks>
-      <mask>py</mask>
       <mask>*py</mask>
       <mask>TeacherGradeLevels/</mask>
       <mask>TeacherGradeLevels</mask>
       <mask>TeacherGradeLevels.</mask>
       <mask>TeacherGradeLevels.js</mask>
-      <mask>*.s</mask>
-      <mask>*.sas</mask>
-      <mask>*.sass</mask>
       <mask>*.cs</mask>
       <mask>*.css</mask>
       <mask>*.l</mask>
@@ -39,6 +35,10 @@
       <mask>*.js</mask>
       <mask>*.p</mask>
       <mask>*.py</mask>
+      <mask>*.s</mask>
+      <mask>*.sa</mask>
+      <mask>*.sas</mask>
+      <mask>*.sass</mask>
     </recentFileMasks>
   </component>
 </application>
